@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0fd16216-a440-4f08-b7cb-82728efebf3e",
+    "title": "Test Note",
+    "content": "This is a test note",
+    "category": "test",
+    "tags": "[\"test\"]",
+    "isPinned": 0,
+    "isArchived": 0,
+    "priority": "medium",
+    "createdAt": "2025-09-07 01:00:29.386 +00:00",
+    "updatedAt": "2025-09-07 01:00:29.386 +00:00"
+  },
+  {
+    "id": "c19a2d77-e391-4536-9078-3338195c987a",
+    "title": "Test Note 2",
+    "content": "This is another test note",
+    "category": "test",
+    "tags": "[]",
+    "isPinned": 0,
+    "isArchived": 0,
+    "priority": "medium",
+    "createdAt": "2025-09-07 01:09:43.839 +00:00",
+    "updatedAt": "2025-09-07 01:09:43.839 +00:00"
+  }
+]
